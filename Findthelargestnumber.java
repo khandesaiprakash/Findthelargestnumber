@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class Findthelargestnumber {
     public static void main(String[] args) {
-        java.util.Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         //print the first number
         System.out.println("Enter the first number:");
